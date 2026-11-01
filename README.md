@@ -1,1 +1,1 @@
-# odin-recipes
+ini adalah website saya untuk latihan dari odin project bagian odin recipes
